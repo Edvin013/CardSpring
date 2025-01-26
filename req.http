@@ -1,0 +1,5 @@
+### GET all sort desc
+GET localhost:8080/category/search/user?userId=2
+
+### GET all sort desc
+GET localhost:8080/user/1
